@@ -1,0 +1,19 @@
+{
+    "name": "haymetg/acemel64",
+    "description": "An encryption logic for Ace and Mel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Masangcay",
+            "email": "jameskyurem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HaymeTG\\": "src/"
+        }
+    }
+}
